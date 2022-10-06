@@ -1,0 +1,10 @@
+.bg-light-blue {
+    background-color: rgb(230, 245, 250);
+  }
+
+.btn,
+.btn:hover,
+.btn:active {
+  background-color: #16b04f;
+  border-color: #16b04f;
+}
